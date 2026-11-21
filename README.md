@@ -1,5 +1,5 @@
 
-### Hi, I'm Talia 
+![Talia Pulsifer — GIS Developer and Software Developer](README%20Banner)
 
 I'm pursuing GIS Developer and entry-level Software Engineer opportunities, including junior and new graduate roles.
 

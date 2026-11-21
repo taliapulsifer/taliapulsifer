@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Talia 👋
 
-<!--
-**taliapulsifer/taliapulsifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm pursuing GIS Developer and entry-level Software Engineer opportunities, including junior and new graduate roles.
 
-Here are some ideas to get you started:
+I'm interested in work that brings together geographic information, thoughtful software, and practical problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+I'm putting together a selection of projects that highlight my experience, my contributions, and what I learned along the way. Check back soon for project walkthroughs and code samples.
+
+## Let's connect
+
+If you're hiring for GIS development or entry-level software engineering roles, I'd love to connect.
+
+[Email me](mailto:taliapulsifer@outlook.com)

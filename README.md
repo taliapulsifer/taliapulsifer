@@ -1,11 +1,23 @@
 
-# Hi, I'm Talia 
+### Hi, I'm Talia 
 
 I'm pursuing GIS Developer and entry-level Software Engineer opportunities, including junior and new graduate roles.
 
 I'm interested in work that brings together geographic information, thoughtful software, and practical problem-solving.
 
-## Featured projects
+<img src="https://placehold.co/1600x6/542D4D/542D4D.png" width="100%" height="6" alt="" />
+
+### Tools
+
+![Python](https://img.shields.io/badge/Python-F5CADB?style=for-the-badge&logo=python&logoColor=542D4D)
+![Java](https://img.shields.io/badge/Java-F5CADB?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-F5CADB?style=for-the-badge&logo=cplusplus&logoColor=542D4D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F5CADB?style=for-the-badge&logo=javascript&logoColor=542D4D)
+![Git](https://img.shields.io/badge/Git-F5CADB?style=for-the-badge&logo=git&logoColor=542D4D)
+![GitHub](https://img.shields.io/badge/GitHub-F5CADB?style=for-the-badge&logo=github&logoColor=542D4D)
+
+---
+### Featured projects
 
 ### Occupancy Hub — Texas State University
 
@@ -36,12 +48,15 @@ An interactive map combining earthquake records, classified fault sources, and d
 
 **Built with:** Python, GeoPandas, Pandas, Folium/Leaflet, Requests, and Matplotlib.
 
-[Explore the map](https://taliapulsifer.github.io/Map_Project/) · [View the code](https://github.com/taliapulsifer/Map_Project)
+[![Explore the map](https://img.shields.io/badge/Explore_the_map-F5CADB?style=for-the-badge)](https://taliapulsifer.github.io/Map_Project/)
+[![Explore the code](https://img.shields.io/badge/Explore_the_code-F5CADB?style=for-the-badge)](https://github.com/taliapulsifer/Map_Project)
 
 *The published map is a generated snapshot rather than a live earthquake feed.*
 
-## Let's connect
+<img src="https://placehold.co/1600x6/542D4D/542D4D.png" width="100%" height="6" alt="" />
+
+### Let's connect!
 
 If you're hiring for GIS development or entry-level software engineering roles, I'd love to connect.
 
-[Email me](mailto:taliaApulsifer@proton.me)
+[![Email me](https://img.shields.io/badge/Email_me-F5CADB?style=for-the-badge)](mailto:taliaApulsifer@proton.me)

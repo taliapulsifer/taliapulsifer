@@ -6,6 +6,24 @@ I'm interested in work that brings together geographic information, thoughtful s
 
 ## Featured projects
 
+### 🏫 Occupancy Hub — Texas State University
+
+A facilities planning application I’m developing during my GIS Developer internship at Texas State University. It brings university occupancy data into an interactive campus map to help facilities staff understand space usage and make room-assignment decisions.
+
+**My role:** Own the application’s architecture, implementation, and deployment. Extend inherited Python data-retrieval and parsing tools with additional features.
+
+- Integrates university data from the AiM database with ArcGIS tools and Python processing.
+- Displays rooms by use, including offices, classrooms, and restrooms, with square footage and assignment status.
+- Filters rooms by vacancy and capacity to help staff identify suitable spaces.
+- Calculates shortest paths between selected locations for indoor routing.
+- Provides a JavaScript interface built with the ArcGIS SDK.
+
+**Technology:** JavaScript · ArcGIS SDK · Python · AiM data integration
+
+**Status:** In development, with broader deployment planned by the end of December 2026.
+
+*Source code is private. Selected screenshots and a project walkthrough are available upon request.*
+
 ### 🌎 North American Earthquake & Geology Explorer
 
 An interactive map combining earthquake records, classified fault sources, and dominant state-level geology.

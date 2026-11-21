@@ -1,4 +1,5 @@
-# Hi, I'm Talia 👋
+
+# Hi, I'm Talia 
 
 I'm pursuing GIS Developer and entry-level Software Engineer opportunities, including junior and new graduate roles.
 
@@ -6,7 +7,7 @@ I'm interested in work that brings together geographic information, thoughtful s
 
 ## Featured projects
 
-### 🏫 Occupancy Hub — Texas State University
+### Occupancy Hub — Texas State University
 
 A facilities planning application I’m developing during my GIS Developer internship at Texas State University. It brings university occupancy data into an interactive campus map to help facilities staff understand space usage and make room-assignment decisions.
 
